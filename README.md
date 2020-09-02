@@ -1,1 +1,1 @@
-# devto_tab_extension_example
+Bu repo devto da yazılan makale için örnek amaçlı yapılmıştır.
